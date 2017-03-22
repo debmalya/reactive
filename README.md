@@ -10,7 +10,7 @@
 * npm i react react-dom --save
 
 # To edit
-In webpack.config.js modifiy output->path to your environment
+In webpack.config.js modifiy output->path specific to your environment.
 
 # To run
 * npm start
