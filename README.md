@@ -9,6 +9,8 @@
 * npm install babel-preset-es2015
 * npm i react react-dom --save
 
+# To edit
+In webpack.config.js modifiy output->path to your environment
 
 # To run
 * npm start
