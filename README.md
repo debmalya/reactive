@@ -14,3 +14,6 @@ In webpack.config.js modifiy output->path specific to your environment.
 
 # To run
 * npm start
+
+# To test
+* open browser and type http://localhost:8080/
